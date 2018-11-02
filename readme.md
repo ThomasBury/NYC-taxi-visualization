@@ -5,7 +5,7 @@ Data Office - Advanced Analytics
 Allianz
 2018-10-31
 
-<img src="D:/Users/EUDZ040/R-open/003_Scientific_colors/sample_pic/bender_hex.png" style="position:absolute;top:0px;right:0px;" width="120px" align="right" />
+<img src="D:/Users/EUDZ040/R/Taxi-trips/sample_pic/bender_hex.png" align="right" width="120px" align="right" />
 
 Another notebook on the New York taxi data
 ==========================================
